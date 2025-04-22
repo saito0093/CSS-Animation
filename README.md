@@ -45,4 +45,4 @@ All content is based on articles found on the internet. A list of the resources 
 
 #### Authors
 
-Written by Wart Claes and Bjorn Rombaut on behalf of [Euricom](http://www.euri.com).
+Written by Wart Claes, Bjorn Rombaut and Yuya Sano on behalf of [Euricom](http://www.euri.com).
